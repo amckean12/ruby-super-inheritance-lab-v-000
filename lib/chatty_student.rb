@@ -4,16 +4,7 @@ class ChattyStudent
   end
 
   def raise_hand
-    'Pick me!'
-    'Pick me!'
-    'Pick me!'
-    'Pick me!'
-    'Pick me!'
-    'Pick me!'
-    'Pick me!'
-    'Pick me!'
-    'Pick me!'
-    'Pick me!'    
+    "Pick me!\nPick me!\nPick me!\nPick me!\nPick me!\nPick me!\nPick me!\nPick me!\nPick me!\nPick me!\n"   
   end
 
 end
